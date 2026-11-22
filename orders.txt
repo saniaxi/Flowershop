@@ -1,0 +1,50 @@
+====== Order #1 ======
+Peace Lily | Indoor Plant | Rs. 850
+Pinkpetals | Indoor Plant | Rs. 650
+Clover | Indoor Plant | Rs. 400
+Total: Rs. 1900
+Total Plants Ever Ordered (session): 6
+
+===== ORDER =====
+Date: 2026-05-20 23:38:23
+  - Jasmine (Outdoor Plant) — Rs. 750
+  - Jasmine (Outdoor Plant) — Rs. 750
+  - Sunflower (Outdoor Plant) — Rs. 500
+  - Rose Bush (Outdoor Plant) — Rs. 1200
+Total: Rs. 3200
+Total Orders So Far: 0
+
+===== ORDER =====
+Date: 2026-05-21 00:16:18
+  - Fern Leaves (Succulent) — Rs. 600
+  - Clover Plant (Succulent) — Rs. 350
+  - Tulip Purple (Succulent) — Rs. 450
+Total: Rs. 1400
+Total Orders So Far: 0
+
+===== ORDER =====
+Date: 2026-05-21 00:16:39
+  - Clover Plant (Succulent) — Rs. 350
+  - Bloomy (Succulent) — Rs. 450
+  - Enchanted Flower (Indoor Plant) — Rs. 650
+  - Fantasy Flower (Indoor Plant) — Rs. 850
+  - Fern Leaves (Succulent) — Rs. 600
+Total: Rs. 2900
+Total Orders So Far: 1
+
+===== ORDER =====
+Date: 2026-06-01 11:41:41
+  - Clover Plant (Succulent) — Rs. 350
+  - Fern Leaves (Succulent) — Rs. 600
+Total: Rs. 950
+Total Orders So Far: 0
+
+===== ORDER =====
+Date: 2026-06-12 10:21:54
+  - Peace Lily (Indoor Plant) — Rs. 850
+  - Enchanted Flower (Indoor Plant) — Rs. 650
+  - Clover Plant (Succulent) — Rs. 350
+  - Clover Plant (Succulent) — Rs. 350
+Total: Rs. 2200
+Total Orders So Far: 0
+
